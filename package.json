@@ -1,0 +1,32 @@
+{
+  "name": "@gravity-ai/inference",
+  "version": "1.0.0",
+  "description": "A JavaScript SDK for submitting and managing jobs on gravityAI's model hosting platform.",
+  "main": "src/gravity-ai-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GravityAI/gai-javascript-sdk.git"
+  },
+  "keywords": [
+    "gravityAI",
+    "AI",
+    "artificial",
+    "intelligence",
+    "inference",
+    "SDK",
+    "model",
+    "hosting",
+    "job",
+    "submission",
+    "API"
+  ],
+  "author": "gravityAI Team <support@gravity-ai.com> (https://www.gravity-ai.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GravityAI/gai-javascript-sdk/issues"
+  },
+  "homepage": "https://github.com/GravityAI/gai-javascript-sdk#readme"
+}
